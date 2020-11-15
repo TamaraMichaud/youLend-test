@@ -9,4 +9,4 @@ Modify the value of "features" field to run only specific scenarios
 
 # Reporting
 Overall test results can be found in ./target/report.html
-Screenshots of failed tests can be found in ./target/ dir
+Screenshots of failed tests can be found in ./target/ directory
